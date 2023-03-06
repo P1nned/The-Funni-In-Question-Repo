@@ -1,0 +1,5 @@
+mods/data/goddess/goddess.json
+mods/songs/goddess/Voices.ogg
+mods/songs/goddess/voices.ogg
+mods/songs/goddess/Inst.ogg
+mods/songs/goddess/inst.ogg

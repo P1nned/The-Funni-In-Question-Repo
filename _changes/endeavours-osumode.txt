@@ -1,0 +1,3 @@
+mods/data/endeavours/endeavours.json
+mods/songs/endeavours/Inst.ogg
+mods/songs/endeavours/inst.ogg

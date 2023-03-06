@@ -1,0 +1,3 @@
+mods/data/endless-jp/endless-jp.json
+mods/songs/endless-jp/Inst.ogg
+mods/songs/endless-jp/inst.ogg

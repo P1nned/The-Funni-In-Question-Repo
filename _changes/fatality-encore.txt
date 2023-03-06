@@ -1,0 +1,7 @@
+mods/data/fatality-encore/fatality-encore-hard - copy (2).json
+mods/data/fatality-encore/fatality-encore-hard.json
+mods/data/fatality-encore/fatality-encore-mechanic.json
+mods/songs/fatality-encore/Voices.ogg
+mods/songs/fatality-encore/Inst.ogg
+mods/songs/fatality-encore/voices.ogg
+mods/songs/fatality-encore/inst.ogg

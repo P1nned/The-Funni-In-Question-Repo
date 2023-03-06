@@ -1,0 +1,3 @@
+mods/data/bloody-stream/bloody-stream.json
+mods/songs/bloody-stream/Inst.ogg
+mods/songs/bloody-stream/inst.ogg

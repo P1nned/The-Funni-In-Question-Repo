@@ -1,0 +1,5 @@
+mods/data/hollow/hollow.json
+mods/songs/hollow/Voices.ogg
+mods/songs/hollow/voices.ogg
+mods/songs/hollow/Inst.ogg
+mods/songs/hollow/inst.ogg

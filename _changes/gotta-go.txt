@@ -1,0 +1,6 @@
+mods/data/gotta-go/gotta-go-hard.json
+mods/data/gotta-go/gotta-go.json
+mods/songs/gotta-go/Voices.ogg
+mods/songs/gotta-go/voices.ogg
+mods/songs/gotta-go/Inst.ogg
+mods/songs/gotta-go/inst.ogg

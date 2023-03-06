@@ -1,0 +1,3 @@
+mods/data/b4cksl4sh/b4cksl4sh.json
+mods/songs/b4cksl4sh/Inst.ogg
+mods/songs/b4cksl4sh/inst.ogg

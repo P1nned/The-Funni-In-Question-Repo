@@ -1,0 +1,5 @@
+mods/data/final-escape/final-escape.json
+mods/songs/final-escape/Voices.ogg
+mods/songs/final-escape/voices.ogg
+mods/songs/final-escape/Inst.ogg
+mods/songs/final-escape/inst.ogg

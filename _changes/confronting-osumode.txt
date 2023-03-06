@@ -1,0 +1,3 @@
+mods/data/confronting/confronting.json
+mods/songs/confronting/Inst.ogg
+mods/songs/confronting/inst.ogg

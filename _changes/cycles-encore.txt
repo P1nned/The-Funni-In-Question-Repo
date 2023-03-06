@@ -1,0 +1,5 @@
+mods/data/cycles-encore/cycles-encore.json
+mods/songs/cycles-encore/Voices.ogg
+mods/songs/cycles-encore/voices.ogg
+mods/songs/cycles-encore/Inst.ogg
+mods/songs/cycles-encore/inst.ogg

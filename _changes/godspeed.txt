@@ -1,0 +1,3 @@
+mods/data/godspeed/godspeed.json
+mods/songs/godspeed/Inst.ogg
+mods/songs/godspeed/inst.ogg

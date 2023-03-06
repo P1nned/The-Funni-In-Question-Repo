@@ -1,0 +1,4 @@
+mods/songs/Relax/Voices.ogg
+mods/songs/Relax/voices.ogg
+mods/songs/Relax/Inst.ogg
+mods/songs/Relax/inst.ogg

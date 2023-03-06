@@ -1,0 +1,5 @@
+mods/data/MY-HORIZON/MY-HORIZON-normal.json
+mods/songs/MY-HORIZON/Voices.ogg
+mods/songs/MY-HORIZON/voices.ogg
+mods/songs/MY-HORIZON/Inst.ogg
+mods/songs/MY-HORIZON/inst.ogg

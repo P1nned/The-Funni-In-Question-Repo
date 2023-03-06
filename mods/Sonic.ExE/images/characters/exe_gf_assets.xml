@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_ass_redesign.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DanceLeft0000" x="429" y="0" width="429" height="649" frameX="-1" frameY="-10" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0001" x="0" y="1311" width="432" height="649" frameX="0" frameY="-10" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0002" x="428" y="655" width="431" height="650" frameX="-2" frameY="-8" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0003" x="0" y="2618" width="425" height="656" frameX="-8" frameY="-2" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0004" x="424" y="1960" width="423" height="658" frameX="-11" frameY="0" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0005" x="424" y="1960" width="423" height="658" frameX="-11" frameY="0" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="DanceLeft0006" x="424" y="1960" width="423" height="658" frameX="-11" frameY="0" frameWidth="434" frameHeight="659"/>
+	<SubTexture name="Ouch0000" x="0" y="0" width="429" height="655" frameX="0" frameY="-4" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0001" x="0" y="655" width="428" height="656" frameX="-1" frameY="-3" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0002" x="846" y="3276" width="424" height="656" frameX="-6" frameY="-2" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0003" x="423" y="3274" width="423" height="658" frameX="-7" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0004" x="0" y="1960" width="424" height="658" frameX="-6" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0005" x="846" y="2618" width="423" height="658" frameX="-7" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0006" x="423" y="3274" width="423" height="658" frameX="-7" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0007" x="0" y="1960" width="424" height="658" frameX="-6" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="Ouch0008" x="846" y="2618" width="423" height="658" frameX="-7" frameY="0" frameWidth="430" frameHeight="659"/>
+	<SubTexture name="RightDance0000" x="858" y="0" width="418" height="655" frameX="-8" frameY="-4" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0001" x="847" y="1957" width="415" height="652" frameX="-11" frameY="-7" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0002" x="432" y="1305" width="417" height="652" frameX="-8" frameY="-6" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0003" x="425" y="2618" width="420" height="656" frameX="-2" frameY="-2" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0004" x="0" y="3274" width="423" height="658" frameX="0" frameY="0" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0005" x="0" y="3274" width="423" height="658" frameX="0" frameY="0" frameWidth="426" frameHeight="659"/>
+	<SubTexture name="RightDance0006" x="0" y="3274" width="423" height="658" frameX="0" frameY="0" frameWidth="426" frameHeight="659"/>
+</TextureAtlas>

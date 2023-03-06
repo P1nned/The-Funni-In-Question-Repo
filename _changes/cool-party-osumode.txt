@@ -1,0 +1,4 @@
+mods/data/cool-party/cool-party.json
+mods/data/cool-party/events.json
+mods/songs/cool-party/Inst.ogg
+mods/songs/cool-party/inst.ogg

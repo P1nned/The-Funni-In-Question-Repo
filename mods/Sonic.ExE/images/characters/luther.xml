@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luther.png">
+<SubTexture name="luther left0000" x="594" y="0" width="203" height="268" frameX="-6" frameY="-25" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther left0001" x="594" y="268" width="203" height="267" frameX="-6" frameY="-26" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther left0002" x="797" y="0" width="203" height="265" frameX="-6" frameY="-28" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther idle0000" x="0" y="0" width="195" height="283" frameX="-6" frameY="-9" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther idle0001" x="0" y="0" width="195" height="283" frameX="-6" frameY="-9" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther idle0002" x="195" y="0" width="197" height="282" frameX="-5" frameY="-10" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther idle0003" x="392" y="0" width="202" height="281" frameX="-3" frameY="-11" frameWidth="209" frameHeight="294" />
+<SubTexture name="luther down0000" x="1000" y="426" width="220" height="205" frameX="-1" frameY="-79" frameWidth="229" frameHeight="294" />
+<SubTexture name="luther down0001" x="1000" y="215" width="220" height="211" frameX="-1" frameY="-73" frameWidth="229" frameHeight="294" />
+<SubTexture name="luther down0002" x="1000" y="0" width="220" height="215" frameX="-1" frameY="-69" frameWidth="229" frameHeight="294" />
+<SubTexture name="luther right0000" x="632" y="563" width="214" height="234" frameX="-2" frameY="-70" frameWidth="218" frameHeight="307" />
+<SubTexture name="luther right0001" x="421" y="563" width="211" height="237" frameX="-1" frameY="-68" frameWidth="218" frameHeight="307" />
+<SubTexture name="luther right0002" x="214" y="563" width="207" height="240" frameX="-1" frameY="-65" frameWidth="218" frameHeight="307" />
+<SubTexture name="luther up0000" x="0" y="563" width="214" height="265" frameX="-2" frameY="-31" frameWidth="218" frameHeight="307" />
+<SubTexture name="luther up0001" x="216" y="283" width="215" height="273" frameX="-2" frameY="-24" frameWidth="218" frameHeight="307" />
+<SubTexture name="luther up0002" x="0" y="283" width="216" height="280" frameX="-2" frameY="-17" frameWidth="218" frameHeight="307" />
+</TextureAtlas>

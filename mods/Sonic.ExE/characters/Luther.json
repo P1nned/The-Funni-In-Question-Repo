@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				214,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "luther idle"
+		},
+		{
+			"offsets": [
+				268,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "luther up"
+		},
+		{
+			"offsets": [
+				53,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "luther right"
+		},
+		{
+			"offsets": [
+				132,
+				-62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "luther down"
+		},
+		{
+			"offsets": [
+				207,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "luther left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luther",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		-290,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.65
+}

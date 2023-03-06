@@ -1,0 +1,3 @@
+mods/data/fate/fate.json
+mods/songs/fate/Inst.ogg
+mods/songs/fate/inst.ogg

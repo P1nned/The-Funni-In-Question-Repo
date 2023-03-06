@@ -1,0 +1,4 @@
+mods/data/sunshine-encore/Float_character.lua
+mods/data/sunshine-encore/sunshine-encore.json
+mods/songs/sunshine-encore/Inst.ogg
+mods/songs/sunshine-encore/inst.ogg
