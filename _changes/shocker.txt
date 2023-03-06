@@ -1,3 +1,5 @@
 mods/data/shocker/shocker.json
+mods/songs/shocker/Voices.ogg
 mods/songs/shocker/Inst.ogg
+mods/songs/shocker/voices.ogg
 mods/songs/shocker/inst.ogg

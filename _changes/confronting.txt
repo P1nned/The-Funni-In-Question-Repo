@@ -1,3 +1,5 @@
 mods/data/confronting/confronting.json
+mods/songs/confronting/Voices.ogg
 mods/songs/confronting/Inst.ogg
+mods/songs/confronting/voices.ogg
 mods/songs/confronting/inst.ogg

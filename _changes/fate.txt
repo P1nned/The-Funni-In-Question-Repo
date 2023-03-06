@@ -1,3 +1,5 @@
 mods/data/fate/fate.json
+mods/songs/fate/Voices.ogg
 mods/songs/fate/Inst.ogg
+mods/songs/fate/voices.ogg
 mods/songs/fate/inst.ogg

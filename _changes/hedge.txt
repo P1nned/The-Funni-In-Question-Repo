@@ -1,4 +1,6 @@
 mods/data/hedge/events.json
 mods/data/hedge/hedge.json
+mods/songs/hedge/Voices.ogg
 mods/songs/hedge/Inst.ogg
+mods/songs/hedge/voices.ogg
 mods/songs/hedge/inst.ogg

@@ -1,3 +1,5 @@
 mods/data/endless-jp/endless-jp.json
+mods/songs/endless-jp/Voices.ogg
 mods/songs/endless-jp/Inst.ogg
+mods/songs/endless-jp/voices.ogg
 mods/songs/endless-jp/inst.ogg

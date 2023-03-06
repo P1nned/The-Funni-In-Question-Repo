@@ -1,4 +1,3 @@
-mods/data/fatality-encore/fatality-encore-hard - copy (2).json
 mods/data/fatality-encore/fatality-encore-hard.json
 mods/data/fatality-encore/fatality-encore-mechanic.json
 mods/songs/fatality-encore/Voices.ogg

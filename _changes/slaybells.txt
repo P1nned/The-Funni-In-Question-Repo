@@ -1,2 +1,6 @@
 mods/data/slaybells/events.json
 mods/data/slaybells/slaybells.json
+mods/songs/slaybells/Voices.ogg
+mods/songs/slaybells/Inst.ogg
+mods/songs/slaybells/voices.ogg
+mods/songs/slaybells/inst.ogg

@@ -1,3 +1,5 @@
 mods/data/mania/mania.json
+mods/songs/mania/Voices.ogg
 mods/songs/mania/Inst.ogg
+mods/songs/mania/voices.ogg
 mods/songs/mania/inst.ogg

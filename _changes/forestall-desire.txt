@@ -1,5 +1,5 @@
 mods/data/forestall-desire/forestall-desire.json
 mods/songs/forestall-desire/Voices.ogg
-mods/songs/forestall-desire/voices.ogg
 mods/songs/forestall-desire/Inst.ogg
+mods/songs/forestall-desire/voices.ogg
 mods/songs/forestall-desire/inst.ogg

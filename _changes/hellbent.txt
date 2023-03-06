@@ -1,9 +1,6 @@
 mods/data/hellbent/events.json
 mods/data/hellbent/hellbent.json
-mods/data/hellbent/script.lua
-mods/data/hellbent/script2.lua
-mods/data/hellbent/script3.lua
 mods/songs/hellbent/Voices.ogg
-mods/songs/hellbent/voices.ogg
 mods/songs/hellbent/Inst.ogg
+mods/songs/hellbent/voices.ogg
 mods/songs/hellbent/inst.ogg
