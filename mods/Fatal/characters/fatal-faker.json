@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-106,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fatal-up"
+		},
+		{
+			"offsets": [
+				-216,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fatal-right"
+		},
+		{
+			"offsets": [
+				24,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fatal-left"
+		},
+		{
+			"offsets": [
+				4,
+				-267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fatal-down"
+		},
+		{
+			"offsets": [
+				-116,
+				-242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fatal-idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fatal-faker",
+	"position": [
+		-300,
+		-170
+	],
+	"healthicon": "fatal-faker",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		255
+	],
+	"camera_position": [
+		100,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 2.20000000000001
+}
